@@ -1938,3 +1938,9 @@ section {
   width: 250px;
   height: 250px;
 }
+.member-info h4 a {
+  color: #0056b3;
+}
+.member-info h4 a:hover {
+  color: #4992e1;
+}
