@@ -1934,3 +1934,7 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.img-thumb {
+  width: 250px;
+  height: 250px;
+}
